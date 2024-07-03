@@ -28,9 +28,9 @@ You can rename the sensor to anything more meaningful to you.
 
 Your generosity will help me maintain and develop more projects like this one.
 
-- 💖 [Sponsor me on GitHub][gh-sponsors-url]
+- 💖 [Sponsor on GitHub][gh-sponsors-url]
 - ☕️ [Buy Me A Coffee][buymeacoffee-url]
-- 🤝 [Support me on Patreon][patreon-url]
+- 🤝 [Support on Patreon][patreon-url]
 - Bitcoin: `bc1q7lfx6de8jrqt8mcds974l6nrsguhd6u30c6sg8`
 - Ethereum: `0x6aF39C917359897ae6969Ad682C14110afe1a0a1`
 
